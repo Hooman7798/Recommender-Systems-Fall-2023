@@ -1,1 +1,1 @@
-in this assignment, I Implemented a simple movie recommneder system based on two datasets of IMDB. preprocessing is done on this dataset In the RSHW2-Evaluation.ipynb file. Precsion, Recall and F1-score metrics are also calcaualted.In the RSHW2_Product.ipynb file, the Recommender syatem is implemented and the reults are shown. 
+in this assignment, I Implemented a simple movie recommneder system based on two datasets of IMDB. 
