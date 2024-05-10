@@ -1,2 +1,2 @@
 # Recommender-Systems-Fall-2023
-In this repository, I have shared my assignments of the Recommender systems course of Fall 2023 semester.
+In this repository, I have shared my assignments from the Recommender systems course that I passed in Fall 2023 semester.
