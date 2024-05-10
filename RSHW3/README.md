@@ -1,1 +1,1 @@
-
+In this Project, I implemented Q-learning dataset for session-based recommender system on Retail Rocket dataset. Here is the link to this dataset : https://drive.google.com/drive/folders/1pBXCjFlWiAVMjD9HtSETonfLFpXwR5h3
