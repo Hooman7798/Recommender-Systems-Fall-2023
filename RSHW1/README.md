@@ -1,1 +1,1 @@
-
+In the First assignment, I implemented Collaborative Filtering based on items and based on users on the Movielens_ratings dataset. For each of these two methods, I implemented two approaches based on threshold and based on nearest neighbors. Precision, Recall, and F1-Score are also calculated for each of the methods.
